@@ -1,0 +1,5 @@
+#민감한 파일들
+.env
+
+#나만 쓸 파일들
+Claude.local.md
